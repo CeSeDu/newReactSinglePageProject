@@ -59,7 +59,7 @@ function Header() {
                 </p>
               </div>
               <div className="mt-6 flex space-x-4">
-                <div className="bg-yellow-300 p-2  border-e-2 border-b-2 border-yellow-900 rounded-lg flex justify-between">
+                <div className="bg-yellow-300 p-2  border-e-2 border-b-2 border-yellow-900 rounded-lg flex justify-between cursor-pointer">
                   <span className="p-1 rounded-lg flex items-center gap-2 text-black">
                     <svg
                       width="24"
@@ -137,7 +137,7 @@ function Header() {
                     </svg>
                   </span>
                 </div>
-                <div className="bg-pink-300 p-2  border-e-2 border-b-2 border-pink-900 rounded-lg flex justify-between">
+                <div className="bg-pink-300 p-2  border-e-2 border-b-2 border-pink-900 rounded-lg flex justify-between cursor-pointer">
                   <span className="p-1 rounded-lg flex items-center gap-2 text-black">
                     <h2>
                       {" "}

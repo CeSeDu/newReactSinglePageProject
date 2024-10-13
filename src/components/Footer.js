@@ -42,10 +42,10 @@ function Footer() {
             <small className="text-xl font-light pb-2">Subscribe</small>
             <div className="bg-gray-900 p-2  border border-gray-300 rounded-lg flex justify-between">
               <input
-                className="bg-gray-900 placeholder:text-sm"
+                className="bg-gray-900 placeholder:text-sm w-full outline-none"
                 placeholder="Input your emaill address in here"
               />
-              <span className="bg-customGreen p-1 rounded-lg">
+              <span className="bg-customGreen p-1 rounded-lg cursor-pointer">
                 <svg
                   width="32"
                   height="31"
