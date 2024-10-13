@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer className="bg-black py-12 text-center grid text-white container gap-12 mx-auto" >
-      <div className="md:flex md:flex-cols-2 p-12 md:p-2 justify-center  gap-12">
+      <div className="md:flex md:flex-cols-2 md:p-12 p-2 justify-center  gap-12">
         <div className="grid justify-end col-span-1 ">
           <img
             src={require("../img/thisuix.png")}

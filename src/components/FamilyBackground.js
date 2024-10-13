@@ -4,7 +4,7 @@ const FamilyBackground = () => {
   return (
     <section className="bg-customGreen text-black py-8 relative">
       <div className="text-center mb-6">
-        <h2 className="font-bold text-6xl">Family Background</h2>
+        <h2 className="font-bold md:text-6xl text-3xl">Family Background</h2>
         <p className="mt-4 max-w-2xl mx-auto text-base leading-relaxed font-light">
           Lorem ipsum is simply dummy text of the printing and typesetting
           industry. Lorem ipsum has been the industry's standard dummy text ever

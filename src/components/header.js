@@ -170,18 +170,18 @@ function Header() {
 
         {/* Bottom Section */}
         <div className="bg-customGreen w-full h-44 absolute z-10  flex justify-center items-center md:gap-12 gap-2" >
-          <span className="border-e  border-black pe-12 text-black">
+          <span className="border-e  border-black md:pe-12 text-black">
             <h1 className="md:text-7xl text-4xl font-extrabold">7+</h1>
             <p className="md:text-3xl text-xl font-extralight">years of</p>
             <p className="md:text-3xl text-xl font-bold">experience</p>
           </span>
-          <span className="border-e  border-black pe-12 text-black">
+          <span className="border-e  border-black md:pe-12 text-black">
             <h1 className="md:text-7xl text-4xl font-extrabold">50+</h1>
             <p className="md:text-3xl text-xl font-extralight">complete</p>
             <p className="md:text-3xl text-xl font-bold">projects</p>
           </span>
-          <span className=" pe-12 text-black">
-            <h1 className="md:text-7xl text-4xl  font-extrabold">30+</h1>
+          <span className="md:pe-12 text-black">
+            <h1 className="md:text-7xl text-4xl font-extrabold">30+</h1>
             <p className="md:text-3xl text-xl font-extralight">Happy</p>
             <p className="md:text-3xl text-xl font-bold">customer</p>
           </span>
